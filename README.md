@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 Hello, World! I'm **Kishore**
 
-<!--
-**BhukyaKishore/BhukyaKishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-I am passionate B.Tech CSE student diving into the realms of **Full-Stack Development** and **Machine Learning**.
+- 🔭 I’m currently working on **Full-Stack Development**
+- 🌱 I’m currently learning **ReactJs**
+- 🎓 Currently pursuing my **Bachelor's degree in Computer Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 My days are filled with coding adventures, where I'm crafting responsive front-end interfaces with **HTML, CSS, and JavaScript** ,while also weaving intricate server-side logic with technologies like **Node.js and Express.js**.
+
+- 📫 You can reach me at [Gmail](mailto:bhukyakishore3921@gmail.com) or find me on [LinkedIn](linkedin.com/in/kishore-bhukya-9b8778252) to discuss opportunities, share insights, or just have a good tech chat!
+
+Keep coding, keep learning, and keep pushing the boundaries! 🚀👨‍💻🧠
